@@ -1,7 +1,7 @@
 ### Olá sou Pamela Borelli 👋
 <br>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/pamelaborelli](https://www.linkedin.com/in/pamelaborelli/))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pamelaborelli](https://www.linkedin.com/in/pamelaborelli/))
 [![hakerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/pcborelli)
 
 ![PamelaBorelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamelaborelli&show_icons=true&theme=tokyonight)
