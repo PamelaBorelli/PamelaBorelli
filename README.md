@@ -5,7 +5,7 @@
 [![hakerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/pcborelli)
 
 ![PamelaBorelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamelaborelli&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaborelli)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaborelli&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tecnologias
