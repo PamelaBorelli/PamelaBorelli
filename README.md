@@ -15,8 +15,8 @@
 <br>
 <br>
 <div align="center">  
-<a href="https://www.linkedin.com/in/pamelaborelli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://www.hackerrank.com/pcborelli" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/pamelaborelli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue"</a>
+<a href="https://www.hackerrank.com/pcborelli" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-0D1117?style=for-the-badge&logo=HackerRank&logoColor=green"</a>
 </div>
   
 <br>
