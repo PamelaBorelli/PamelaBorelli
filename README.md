@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=180&section=header&text=Hello+World!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=150&section=header&text=Hello+World!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF66FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Pamela+Cristina+Borelli;I+'m+from+Brasil,+SP;I+'m+study+Multiplatform+Software+Development;at+FATEC-Franca+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -57,6 +57,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF66FF&height=120&section=footer"/>
 
 
 
