@@ -56,7 +56,7 @@
 ### Other Knowledge:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![React-Native](https://img.shields.io/badge/react--native-2ECC71?style=for-the-badge&logo=react&logoColor=FFFFFF)&nbsp;
+![React-Native](https://img.shields.io/badge/react--native-0D1117?style=for-the-badge&logo=react&logoColor=FFFFFF)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=red)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
