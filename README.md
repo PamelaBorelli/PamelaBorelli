@@ -1,69 +1,65 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=150&section=header&text=Hello+World!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>  -->
-<br>
+# Pamela Cristina Borelli
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF66FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!;+My+name+is+Pamela+Borelli;I+study+Multi-Platform+Software;Be+Welcome!+:%29)](https://git.io/typing-svg)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-GenAI%20%26%20LLMs-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure AZ-900](https://img.shields.io/badge/Azure-AZ--900-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PamelaBorelli&show_icons=true&count_private=true&hide_border=true&title_color=FF66FF&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pamela Cristina Borelli github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamelaBorelli&layout=compact&hide_border=true&title_color=FF66FF&text_color=00bfbf&bg_color=0d1117" />
-</div>
-    
-    
-<!-- [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamelaborelli/)
-[![hakerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/pcborelli) -->
+Profissional de Desenvolvimento de Software com trajetória focada em Inteligência Artificial, Machine Learning, Engenharia de Dados e Processamento de Linguagem Natural (NLP). Atuação prática consolidada no desenvolvimento de modelos preditivos, agentes conversacionais, *fine-tuning* de LLMs e arquiteturas em nuvem.
 
-<br>
+---
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/pamelaborelli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue"</a>
-<a href="https://www.hackerrank.com/pcborelli" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-0D1117?style=for-the-badge&logo=HackerRank&logoColor=green"</a>
-</div>
-  
-<br>
+### Resumo Profissional
 
+- **Residência Tecnológica e Inovação:** Atuação atual como Residente Tecnológica em Inteligência Artificial no Instituto de Pesquisas Eldorado em parceria com a PUC-Campinas.
+- **Desenvolvimento e Validação de IAs:** Experiência prática no CPQD no desenvolvimento de modelos preditivos complexos, validação de algoritmos de aprendizado de máquina e suporte à implementação e testes de agentes conversacionais.
+- **NLP e MLOps:** Histórico técnico no Instituto de Pesquisa Eldorado em Processamento de Linguagem Natural com NLTK e Transformers (Hugging Face), além de rastreamento de experimentos e ciclo de vida de modelos utilizando MLflow.
+- **Engenharia de Dados e Cloud:** Certificação AWS Cloud Practitioner e vivência prévia na Compass UOL aplicando metodologias ágeis em engenharia de dados em nuvem.
+- **Contato:** 
+  - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pamelaborelli)
+  - E-mail: pcborelli@gmail.com
 
-<!--  <div align="center">
-<a href= "https://github.com/PamelaBorelli">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PamelaBorelli&show_icons=true&theme=tokyonight">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamelaBorelli&layout=compact&langs_count=16&theme=tokyonight">
-</div> -->
+---
 
-<!-- ### Tecnologias
+### Tecnologias e Ferramentas
 
-<div atyle="display: inline_block"><br/>
-    <img aLign="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img aLign="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img aLign="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img aLign="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img aLign="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img aLign="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img aLign="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div> -->
+**Linguagens e Core**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<!-- ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp; -->
+**Machine Learning e IA**  
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### Studying at this moment:
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&labelColor=0D1117)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=pandas&labelColor=0D1117)&nbsp;
-![Pytorch](https://img.shields.io/badge/pytorch-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117)&nbsp;
-![Numpy](https://img.shields.io/badge/numpy-0D1117?style=for-the-badge&logo=numpy&labelColor=0D1117)&nbsp;
-![TensorFlow](https://img.shields.io/badge/tensorflow-0D1117?style=for-the-badge&logo=tensorflow&labelColor=0D1117)&nbsp;
-![Leras](https://img.shields.io/badge/keras-0D1117?style=for-the-badge&logo=keras&labelColor=0D1117)&nbsp;
+**Engenharia de Dados**  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### Other Knowledge:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![React-Native](https://img.shields.io/badge/react--native-0D1117?style=for-the-badge&logo=react&logoColor=FFFFFF)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=red)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![MongoDB](<https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117”/>)&nbsp;
+**Cloud e DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
+---
 
-<!--  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
- -->
+### Experiência Profissional
 
+- **Residente Tecnológica em Inteligência Artificial** | Instituto de Pesquisas Eldorado & PUC-Campinas (Setembro de 2026 – Presente)
+- **Estagiária em Inteligência Artificial** | CPQD (Janeiro de 2026 – Presente) — Desenvolvimento e validação de modelos preditivos, algoritmos de aprendizado de máquina e suporte à implementação de agentes conversacionais.
+- **Estagiária em NLP e MLOps** | Instituto de Pesquisa Eldorado (Outubro de 2024 – Dezembro de 2025) — Atuação com processamento de linguagem natural, *fine-tuning* de LLMs e rastreamento de experimentos com MLflow.
+- **Estagiária - Programa de Bolsas em Dados e IA** | Compass UOL (Março de 2024 – Agosto de 2024) — Aplicação de metodologias ágeis em Engenharia de Dados em Nuvem (SQL, Python, IAM, EC2, Lambda, Glue, Athena, Spark).
+
+---
+
+### Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PamelaBorelli&theme=flat&hide_border=true" alt="GitHub Streak Stats" />
+</p>
